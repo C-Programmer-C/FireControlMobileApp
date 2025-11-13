@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "471018324891",
+    "firebase_url": "https://maket5-8eb1a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "maket5-8eb1a",
+    "storage_bucket": "maket5-8eb1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471018324891:android:9fe86f9cc44809c6b3973e",
+        "android_client_info": {
+          "package_name": "com.example.hacaton2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHy7YzagOW6aEakwEBsf_X6nhdUiN-Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471018324891:android:8648b8385698a280b3973e",
+        "android_client_info": {
+          "package_name": "com.example.hakaton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHy7YzagOW6aEakwEBsf_X6nhdUiN-Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
