@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Hacaton2</string>
-    <string name="login_et_email">E-mail:</string>
-    <string name="login_et_pass">Password:</string>
-    <string name="login_button">Войти в аккаунт</string>
-
-    <!--<string name=""></string>-->
-</resources>
